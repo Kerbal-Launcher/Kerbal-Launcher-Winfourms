@@ -1,0 +1,16 @@
+C:\Users\Vincent\source\repos\KerbalLauncher\Kerbal-Launcher\bin\Debug\Kerbal-Launcher.exe
+C:\Users\Vincent\source\repos\KerbalLauncher\Kerbal-Launcher\bin\Debug\Kerbal-Launcher.pdb
+C:\Users\Vincent\source\repos\KerbalLauncher\Kerbal-Launcher\obj\Debug\Kerbal-Launcher.csproj.AssemblyReference.cache
+C:\Users\Vincent\source\repos\KerbalLauncher\Kerbal-Launcher\obj\Debug\Kerbal_Launcher.Properties.Resources.resources
+C:\Users\Vincent\source\repos\KerbalLauncher\Kerbal-Launcher\obj\Debug\Kerbal_Launcher.tinybswindow.resources
+C:\Users\Vincent\source\repos\KerbalLauncher\Kerbal-Launcher\obj\Debug\Kerbal-Launcher.csproj.GenerateResource.cache
+C:\Users\Vincent\source\repos\KerbalLauncher\Kerbal-Launcher\obj\Debug\Kerbal-Launcher.csproj.CoreCompileInputs.cache
+C:\Users\Vincent\source\repos\KerbalLauncher\Kerbal-Launcher\obj\Debug\Kerbal-Launcher.exe
+C:\Users\Vincent\source\repos\KerbalLauncher\Kerbal-Launcher\obj\Debug\Kerbal-Launcher.pdb
+C:\Users\Vincent\source\repos\KerbalLauncher\Kerbal-Launcher\obj\Debug\Kerbal_Launcher.LauncherSplash.resources
+C:\Users\Vincent\source\repos\KerbalLauncher\Kerbal-Launcher\obj\Debug\Kerbal_Launcher.AboutBox.resources
+C:\Users\Vincent\source\repos\KerbalLauncher\Kerbal-Launcher\obj\Debug\Kerbal_Launcher.KSP1Mode.resources
+C:\Users\Vincent\source\repos\KerbalLauncher\Kerbal-Launcher\obj\Debug\Kerbal_Launcher.settings.resources
+C:\Users\Vincent\source\repos\KerbalLauncher\Kerbal-Launcher\obj\Debug\Kerbal_Launcher.ModLoader.resources
+C:\Users\Vincent\source\repos\KerbalLauncher\Kerbal-Launcher\bin\Debug\Kerbal-Launcher.exe.config
+C:\Users\Vincent\source\repos\KerbalLauncher\Kerbal-Launcher\obj\Debug\Kerbal_Launcher.KSP2_Mode.resources

@@ -1,0 +1,15 @@
+[LOG 21:31:48.171] [System] ******* Log Initiated *******
+OS: Windows 8.1  (6.3.0) 64bit
+CPU: Intel(R) Core(TM) i7-6700HQ CPU @ 2.60GHz (8)
+RAM: 24447
+GPU: Intel(R) HD Graphics 530 (3840MB)
+SM: 50 (Direct3D 11.0 [level 11.1])
+RT Formats: ARGB32, Depth, ARGBHalf, Shadowmap, RGB565, ARGB4444, ARGB1555, Default, ARGB2101010, DefaultHDR, ARGB64, ARGBFloat, RGFloat, RGHalf, RFloat, RHalf, R8, ARGBInt, RGInt, RInt, BGRA32, RGB111110Float, RG32, RGBAUShort, RG16, BGRA10101010_XR, BGR101010_XR, R16
+
+
+Log started: Sat, Nov 04, 2023 21:31:48
+
+
+[LOG 21:31:48.408] Version Info: 0.1.5.0.28833
+[LOG 21:31:48.408] Command Line Args:E:\SteamLibrary\steamapps\common\Kerbal Space Program 2\KSP2_x64.exe
+[WRN 21:31:49.992] Failed to change display to ExclusiveFullscreen...reverting to FullscreenWindow
